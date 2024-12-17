@@ -1,5 +1,5 @@
 # statistical-learning-methods-on-Dry-Bean-dataset
-Here’s a **README** draft based on your project details:
+Here’s the updated **README** with Google Colab instructions and your LinkedIn/GitHub profile links.
 
 ---
 
@@ -54,14 +54,13 @@ This project analyzes the **Dry Bean Dataset** using supervised and unsupervised
 - **KNN** and **Logistic Regression** performed well in classification tasks.
 - **K-Means Clustering** exhibited better cluster quality than **Hierarchical Clustering**.
 
-## Conclusions
-The classification models effectively predicted bean classes, while K-Means demonstrated superior clustering performance.
-
-## Dependencies
-- Python 3.x
-- Libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
-
 ## How to Run
+You can execute this project on **Google Colab**:  
+1. Open [Google Colab](https://colab.research.google.com/).  
+2. Upload the **Team_9_ISL_Project.ipynb** notebook and **Dry_Bean_Dataset.xlsx** dataset.  
+3. Run all cells to view the results.  
+
+### Alternatively, run locally:
 1. Clone the repository:  
    ```
    git clone <repo_link>
@@ -76,12 +75,19 @@ The classification models effectively predicted bean classes, while K-Means demo
    jupyter notebook Team_9_ISL_Project.ipynb
    ```
 
+## Dependencies
+- Python 3.x
+- Libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
+
 ## Project Files
 - **Team_9_ISL_Project.ipynb**: Code for preprocessing, modeling, and evaluation.
 - **Dry_Bean_Dataset.xlsx**: Dataset file.
 - **Project_Report.pdf**: Detailed analysis and results.
 
 ## Authors
-Durga Prasad Oduri
+- **Durga Prasad Oduri**  
+   [LinkedIn](https://www.linkedin.com/in/durgaprasadoduri888/) | [GitHub](https://github.com/DURGAPRASAD888DP)
 
 ---
+
+Let me know if you need any further tweaks! 🚀
